@@ -1,0 +1,85 @@
+/**********************************************
+HOMEPAGE + TITLE
+***********************************************/
+.navbar a {
+	font-size: 13px;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding: 14px 10px;
+}
+
+.btn{
+	margin-top: 5px;
+}
+
+.jumbotron {
+	background:url('Material/Images/Riples/I95A2012.jpg') no-repeat center center;
+	background-size:cover;
+	color: #fff;
+	height: 500px
+}
+
+.mail {
+	color: #0B0080;
+}
+
+/**********************************************
+SECTIONS
+***********************************************/
+#academics {
+	background:url('Material/Images/Academics/MIT.jpg')  no-repeat center center;
+	background-size: cover;
+	color: #fff;
+	height: 300px;
+}
+
+#research {
+	background:url('Material/Images/IR/Sel1Drop.jpg') no-repeat center center;
+	background-size: cover;
+	color: #fff;
+	height: 300px;
+}
+
+#workexp {
+	background:url('Material/Images/Perso/DSC_2587.JPG') no-repeat center center;
+	background-size: cover;
+	color: #fff;
+	height: 300px;
+}
+
+/**********************************************
+Body
+***********************************************/
+.page-body{
+	padding: 40px 15px;
+}
+
+.page-body h1{
+	text-align: center;
+	font-size: 45px;
+}
+
+.page-body h2{
+	text-transform: uppercase;
+	text-decoration: underline;
+	letter-spacing: 2px;
+}
+
+.img-thumbnail{
+	height: 100px;
+}
+
+.img{
+	height: 175px;
+}
+
+@media (min-width: 800px) {
+
+	.img-thumbnail{
+		margin-top: 50px;
+	}
+
+	.img{
+		margin-top: 80px;
+	}
+}
