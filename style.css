@@ -8,13 +8,14 @@ HOMEPAGE + TITLE
 	padding: 14px 10px;
 }
 
-.btn{
+.btn {
 	margin-top: 5px;
 }
 
 .jumbotron {
-	background:url('Material/Images/Riples/Ripplessmall.jpg') no-repeat center center;
-	background-size:cover;
+	background: url('Material/Images/Riples/Ripplessmall.jpg') no-repeat
+		center center;
+	background-size: cover;
 	color: #fff;
 	height: 400px
 }
@@ -23,106 +24,110 @@ HOMEPAGE + TITLE
 	color: #0B0080;
 }
 
-.link
-{
-   color:aqua;
-   text-decoration: none; 
-   background-color: none;
+.link {
+	color: aqua;
+	text-decoration: none;
+	background-color: none;
 }
 
 /**********************************************
 SECTIONS
 ***********************************************/
 #academics {
-	background:url('Material/Images/Academics/MIT.jpg')  no-repeat center center;
+	background: url('Material/Images/Academics/MIT.jpg') no-repeat center
+		center;
 	background-size: cover;
 	color: #fff;
 	height: 300px;
 }
 
 #research {
-	background:url('Material/Images/Research/IR/Sel1Drop.jpg') no-repeat center center;
+	background: url('Material/Images/Research/IR/Sel1Dropsmall.jpg')
+		no-repeat center center;
 	background-size: cover;
 	color: #fff;
 	height: 300px;
 }
 
 #skills {
-	background:url('Material/Images/Skills/Skills.jpg') no-repeat center center;
+	background: url('Material/Images/Skills/Skills.jpg') no-repeat center
+		center;
 	background-size: cover;
 	color: #fff;
 	height: 300px;
 }
 
 #contact {
-	background:url('Material/Images/Perso/DSC_2587small2.jpg') no-repeat center center;
+	background: url('Material/Images/Perso/DSC_2587small3.jpg') no-repeat
+		center center;
 	background-size: cover;
 	color: #fff;
 	height: 300px;
 }
 
 #R1 {
-	background:url('Material/Images/Research/Fabrics/cross0003.jpg') no-repeat center center;
+	background: url('Material/Images/Research/Fabrics/cross0003small.jpg')
+		no-repeat center center;
 	background-size: cover;
 	color: #fff;
 	height: 300px;
 }
-
 
 #R2 {
-	background:url('Material/Images/Research/IR/Screen Shot 2017-01-25 at 15.38.24.png') no-repeat center center;
+	background: url('Material/Images/Research/IR/IRsmall.jpg') no-repeat
+		center center;
 	background-size: cover;
 	color: #fff;
 	height: 300px;
 }
+
 #R3 {
-	background:url('Material/Images/Research/Textures/0_6 ace bis.jpg') no-repeat center center;
+	background: url('Material/Images/Research/Textures/0_6 ace bis.jpg')
+		no-repeat center center;
 	background-size: cover;
 	color: #fff;
 	height: 300px;
 }
+
 #R4 {
-	background:url('Material/Images/Research/Fabrics/_P019279-2530x1530.jpg') no-repeat center center;
+	background: url('Material/Images/Research/Fabrics/dropssmall.jpg')
+		no-repeat center center;
 	background-size: cover;
 	color: #fff;
 	height: 300px;
 }
-
-
 
 /**********************************************
 Body
 ***********************************************/
-.page-body{
+.page-body {
 	padding: 40px 15px;
 }
 
-.page-body h1{
+.page-body h1 {
 	text-align: center;
 	font-size: 45px;
 }
 
-.page-body h2{
+.page-body h2 {
 	text-transform: uppercase;
 	text-decoration: underline;
 	letter-spacing: 2px;
 }
 
-.img-thumbnail{
+.img-thumbnail {
 	height: 100px;
 }
 
-.img{
+.img {
 	height: 175px;
 }
 
-@media (min-width: 800px) {
-
-	.img-thumbnail{
+@media ( min-width : 800px) {
+	.img-thumbnail {
 		margin-top: 50px;
 	}
-
-	.img{
+	.img {
 		margin-top: 80px;
 	}
 }
