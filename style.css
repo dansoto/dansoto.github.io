@@ -13,7 +13,7 @@ HOMEPAGE + TITLE
 }
 
 .jumbotron {
-	background:url('Material/Images/Riples/Ripplessmall.png') no-repeat center center;
+	background:url('Material/Images/Riples/Ripplessmall.jpg') no-repeat center center;
 	background-size:cover;
 	color: #fff;
 	height: 500px
@@ -41,7 +41,7 @@ SECTIONS
 }
 
 #workexp {
-	background:url('Material/Images/Perso/DSC_2587small.JPG') no-repeat center center;
+	background:url('Material/Images/Perso/DSC_2587small2.JPG') no-repeat center center;
 	background-size: cover;
 	color: #fff;
 	height: 300px;
